@@ -20,7 +20,7 @@ class NomDeMaClass:
 ```
 
 ### Les imports de librairies
-Comme pour tout script Python, les imports de librairie se font au tout début.
+Comme pour tout script Python, les imports de librairies se font en général tout au tout début mais rien n'empêche de les déclarer n'importe où.
 
 ### Le nom de classe
 La norme veut que le nom de la classe débute toujours par une Majuscule, c'est un héritage du language Pascal.
