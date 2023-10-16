@@ -1,0 +1,4 @@
+unidecode
+shortuuid
+tqdm
+pandas
